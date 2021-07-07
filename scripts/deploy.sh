@@ -13,7 +13,7 @@ PROJECT_NAME=springboot-webservice
 #echo ">step 1 디렉터리 이동"
 #cd $REPOSITORY
 
-echo "> Build 파일 복사"
+echo "> Build 파일 복사#2"
 
 #cp $REPOSITORY/$PROJECT_NAME/build/libs/*.jar $REPOSITORY/
 cp $REPOSITORY/zip/*.jar $REPOSITORY/
